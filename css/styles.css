@@ -1,0 +1,643 @@
+body{
+    padding: 0px;
+}
+
+
+#firstdiv{
+    background-color: #ecf3ff;
+}
+
+#contactbtn, #watchbtn, #learnmorebtn, #subscribebtn{
+    border-radius: 40px;
+
+}
+
+.quote{
+    color: gray;
+    font-size: 1.5em;
+}
+
+@media screen and (max-width: 900px) and (min-width: 600px), (min-width: 1100px) {
+ #firstsubdiv{
+        padding-left: 200px;;
+    }
+
+.header{
+ width: 600px;
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 128%;
+
+letter-spacing: 0.01em;
+
+color: #05060A;
+}
+
+.subline{
+ width: 459px;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 150%;
+color: #5D616F;
+
+}
+
+
+#secondDiv{
+    background-color: #ecf3ff;
+    padding-bottom: 30px;
+}
+
+#SecondSubdiv{
+    padding: 10px;
+    margin-left: 10%;
+    margin-right: 20px;
+}
+
+
+.subclass{
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.imgdiv{
+    width: 76px;
+height: 76px;
+}
+
+.subheader{
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 26px;
+}
+
+.description{
+width: 268px;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+color: #5D616F;
+}
+
+.readmore {
+ font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+text-decoration-line: none;
+color: #FE2C54;
+
+}
+
+.readmoreline{
+    font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+color: #FE2C54;
+text-decoration-line: underline;
+}
+
+#thirdDiv{
+    margin: 25px;
+}
+
+.firstheader{
+    width: 550px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 72px;
+    line-height: 128%;
+    
+    letter-spacing: 0.01em;
+    
+    color: #05060A;
+
+}
+
+
+.Firstsubline{
+    width: 459px;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 22px;
+   line-height: 150%;
+   
+   color: #5D616F;
+   
+   }
+
+   #Secondimgdiv{
+       padding-left: 250px;
+   }
+
+   .txt{
+    text-align:center;
+    size: 20px;
+    color:#3E82FC;
+   }
+
+   .subtxt{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px; 
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #05060A;
+    
+   }
+
+   .companyimgdiv {
+       text-align: center;
+   }
+
+   #fourthdiv{
+       margin: 40px;
+   }
+ 
+
+   #fifthdiv{
+       padding: 25px;
+   }
+
+   #fifthsubdiv{
+       padding-left: 200px;
+   }
+
+   .title{
+    width: 508px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 62px;
+    line-height: 126%;
+    letter-spacing: 0.01em;
+    color: #05060A;
+   }
+
+
+   #sixthdiv{
+       padding: 25px;
+   }
+
+   #sixthimgdiv{
+       padding-left: 200px;
+   }
+
+   #seventhdiv{
+       padding-top: 30px;
+       padding-bottom: 30px;
+   }
+  
+   #clientreviewSection{
+       padding: 25px;
+   }
+
+   .clientimg{
+       width: 100px !important;
+   }
+
+   .clientimgDiv{
+       padding-left: 120px;
+   }
+
+   .clientname{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 26px;
+    text-align: center;  
+    color: #05060A;
+   }
+
+   .clientsubdiv{
+       padding: 40px;
+       box-shadow: 0px 54px 104px rgba(0, 0, 0, 0.04);
+       border-radius: 140px 0px;
+   }
+
+   .happyclienttxt{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FE2C54;
+
+   }
+
+   .clientreview{
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #5D616F;
+    text-align: justify;
+   }
+
+   .ratingdiv{
+   padding-left: 150px;
+   }
+
+   #eighthdiv{
+    background-color: #ecf3ff;
+    padding: 30px;
+    padding-bottom: 0px;
+   }
+
+   #upperdiv{
+       padding: 30px;
+   }
+
+   .subdivDescription{
+    font-Weight: 400;
+    Size: 18px;
+    Line-height: 26px;
+    text-align: Center;
+   }
+
+   #uppersubdiv{
+       padding: 70px;
+   }
+   
+   #lowerdiv{
+       padding: 30px;
+   }
+   
+   #emaildiv{
+  padding-left: 300px;
+   }
+   
+   #emailinput{
+   box-sizing: border-box;
+   height: 50px !important;
+ display: flex;
+ flex-direction: row;
+ align-items: flex-start;
+ padding: 16px 24px;
+ background-color:#ecf3ff;
+ color: #3E82FC; 
+
+ width: 448px;
+ height: 58px;
+
+ border: 1px solid #3E82FC;
+ border-radius: 50px;
+
+   }
+   
+   #eightSubline{
+    width: 300px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+     color: #5D616F;
+
+    
+   }
+
+ 
+
+  .social-circle  a {
+    display: inline-block;
+    position: relative;
+    margin: 0 auto 0 auto;
+    border-radius: 50%;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+
+   }
+
+   .social-circle i {
+    color: white;
+    transition: all 0.8s;
+    display: inline-block;
+    position: relative;
+    margin: 0 auto 0 auto;
+    border-radius: 50%;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+}
+
+}
+
+
+@media only screen and (max-width: 600px) {
+ 
+.header{
+ width: 400px;
+/* font-family: 'Poppins'; */
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 128%;
+
+letter-spacing: 0.01em;
+
+color: #05060A;
+}
+
+.subline{
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+
+color: #5D616F;
+
+}
+
+
+#secondDiv{
+   
+    padding-bottom: 30px;
+}
+
+#SecondSubdiv{
+    padding: 10px;
+}
+
+
+.subclass{
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.imgdiv{
+    width: 76px;
+height: 76px;
+}
+
+.subheader{
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 26px;
+}
+
+.description{
+width: 268px;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+margin: 0px!important;
+color: #5D616F;
+}
+
+.readmore {
+ font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+text-decoration-line: none;
+color: #FE2C54;
+
+}
+
+.readmoreline{
+ font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+color: #FE2C54;
+text-decoration-line: underline;
+}
+
+#thirdDiv{
+    margin: 25px;
+}
+
+.firstheader{
+    width: 350px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 128%;
+    
+    letter-spacing: 0.01em;
+    
+    color: #05060A;
+
+}
+
+
+.Firstsubline{
+    width: 300px;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 18px;
+   line-height: 150%;
+   
+   color: #5D616F;
+   
+   }
+
+
+   .txt{
+    text-align:center;
+    size: 20px;
+    color:#3E82FC;
+   }
+
+   .subtxt{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 0.01em;  
+    color: #05060A;
+    
+   }
+
+   .companyimgdiv{
+       text-align: center;
+   }
+
+   #fourthdiv{
+       margin: 10px;
+   }
+ 
+
+   #fifthdiv{
+       padding: 25px;
+   }
+
+   #fifthsubdiv{
+       padding-left: 0px;
+       padding-bottom: 10px;
+   }
+
+   .title{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 126%;
+    letter-spacing: 0.01em;
+    color: #05060A;
+   }
+
+
+   #sixthdiv{
+       padding: 25px;
+   }
+
+ 
+
+   #seventhdiv{
+       padding-top: 30px;
+     
+   }
+
+   .quote{
+       height: 20px;
+   }
+  
+   #clientreviewSection{
+       padding: 25px;
+   }
+
+   .clientimg{
+       width: 100px !important;
+       
+   }
+
+   .clientimgDiv{
+       padding-left: 120px;
+   }
+
+   .clientname{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 26px;
+    text-align: center;  
+    color: #05060A;
+   }
+
+   .clientsubdiv{
+       padding: 40px;
+       box-shadow: 0px 54px 104px rgba(0, 0, 0, 0.04);
+       border-radius: 140px 0px;
+   }
+
+   .happyclienttxt{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FE2C54;
+
+   }
+
+   .clientreview{
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #5D616F;
+    text-align: justify;
+   }
+
+   .ratingdiv{
+   padding-left: 100px;
+   }
+
+   #eighthdiv{
+    background-color: #ecf3ff;
+   }
+
+
+   .subdivDescription{
+    font-weight:  400;
+    size: 18px;
+    line-height: 26px;
+    text-align: center;
+   }
+   
+   #lowerdiv{
+       padding: 30px;
+   }
+   
+   #emaildiv{
+  margin-bottom: 5px;
+   }
+   
+   #emailinput{
+  box-sizing: border-box;
+  height: 50px !important;
+ display: flex;
+ flex-direction: row;
+ align-items: flex-start;
+ padding: 16px 24px;
+ background-color:#ecf3ff;
+ color: #3E82FC; 
+ height: 58px;
+ border: 1px solid #3E82FC;
+ border-radius: 50px;
+
+   }
+   
+   #eightSubline{
+    width: 300px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+     color: #5D616F;
+
+    
+   }
+
+ 
+
+  .social-circle  a {
+    display: inline-block;
+    position: relative;
+    margin: 0 auto 0 auto;
+    border-radius: 50%;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+
+   }
+
+   .social-circle i {
+    color: white;
+    transition: all 0.8s;
+    display: inline-block;
+    position: relative;
+    margin: 0 auto 0 auto;
+    border-radius: 50%;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.icons{
+    margin: 5px;
+}
+
+.icons img{
+    margin: 3px;
+}
+
+}
+
+
+
